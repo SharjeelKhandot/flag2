@@ -1,0 +1,25 @@
+
+.true{
+    height: 200px;
+    width: 600px;
+    background-color:white ;
+    position: absolute;
+}
+.true1{
+    height: 50px;
+    width: 600px;
+    background-color: red;
+}
+.true2{
+    height: 50px;
+    width: 600px;
+    background-color: red;
+    margin-top: 40%;
+}
+.logo{
+    height: 250px;
+    width: 250px;
+    position: absolute;
+    margin-left: 120px;
+
+}
